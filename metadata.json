@@ -1,0 +1,5 @@
+{
+  "name": "VJA-Core AI Interface",
+  "description": "An integrated AI interface simulating the VJA-Core system, combining Vision (VISTA), Synthesis (JARVIS), and Action (ALEXA) modules for a coherent, context-aware user experience.",
+  "requestFramePermissions": []
+}
